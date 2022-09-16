@@ -1,0 +1,8 @@
+# this program can add 2 numbers together
+
+# user_input1
+user_input1 = int(input("Please enter your first number that you would like to add: "))
+user_input2 = int(input("Please enter the second number: "))
+
+total = str(user_input1 + user_input2)
+print("The total is: " + total)
